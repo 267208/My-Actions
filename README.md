@@ -44,4 +44,4 @@ pnpm install
 | `LENOVO_PASS`   | 联想APP密码    | 联想APP密码                       |
 | `DINGTALK_ACCESS_TOKEN` | 钉钉机器人 Token | 钉钉群机器人 access_token，用于推送签到结果通知（可选，未设置时不发送通知） |
 
-更新保活文本
+更新保活文本2
